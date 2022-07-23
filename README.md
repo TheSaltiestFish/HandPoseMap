@@ -3,6 +3,10 @@
 
 可识别三种手势：放大、缩小、移动
 
-<img src="https://github.com/TheSaltiestFish/HandPoseMap/tree/main/pics/handpose1.png">
+![image](/pics/handpose1.png)
+
+![image](/pics/handpose2.jpg)
+![image](/pics/handpose3.jpg)
+![image](/pics/handpose4.jpg)
 
 需要配合YOLOv5使用，将文件放在YOLOv5目录下
