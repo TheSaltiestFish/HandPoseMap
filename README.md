@@ -10,3 +10,4 @@
 ![image](/pics/handpose4.jpg)
 
 需要配合YOLOv5使用，将文件放在YOLOv5目录下
+权重文件best1.pt在Release中
