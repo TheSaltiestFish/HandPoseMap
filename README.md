@@ -1,5 +1,7 @@
 # HandPoseMap
-- Using YOLOv5 for real-time hand gesture detection, then interact with Amap using detected user hand gesture.
+- Using YOLOv5 for real-time hand gesture detection
+
+- Interact with Amap using detected user hand gesture
 
 - Three gestures supported: zoom in, zoom out, move
 
@@ -9,7 +11,7 @@
 ![image](/pics/handpose3.jpg)
 ![image](/pics/handpose4.jpg)
 
-- Requires YOLOv5 enviornment, copy these files to your YOLOv5 directory.
+- Requires YOLOv5 enviornment, copy these files to your YOLOv5 directory
 
 - Weight file: best1.pt
 
