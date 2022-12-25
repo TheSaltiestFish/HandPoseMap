@@ -1,7 +1,7 @@
 # HandPoseMap
-- 通过YOLOv5实时检测手势，操作高德地图
+- Using YOLOv5 for real-time hand gesture detection, then interact with Amap using detected user hand gesture.
 
-- 可识别三种手势：放大、缩小、移动
+- Three gestures supported: zoom in, zoom out, move
 
 ![image](/pics/handpose1.png)
 
@@ -9,6 +9,8 @@
 ![image](/pics/handpose3.jpg)
 ![image](/pics/handpose4.jpg)
 
-- 需要配合YOLOv5使用，将文件放在YOLOv5目录下
+- Requires YOLOv5 enviornment, copy these files to your YOLOv5 directory.
 
-- 权重文件best1.pt在Release中
+- Weight file: best1.pt
+
+- Run this file: mymap.py
